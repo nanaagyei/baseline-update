@@ -1,0 +1,7 @@
+venv
+
+.DS_Store
+├── .venv
+├── .DS_Store
+├── .gitignore
+__pycache__
